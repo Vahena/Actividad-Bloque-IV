@@ -1,0 +1,1519 @@
+mes,producto,codCliente,nombreCliente,categoria,departamento,montoVenta
+2022-01-10,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,950
+2023-11-02,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,950
+2023-06-23,Cocina,3312,Rene Quinteros Zamora,Otros,Cojutepeque,400
+2023-09-28,Celular,5662,Ulises del Dios Henriquez,Portatil,La Libertad,390
+2023-09-21,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2022-04-23,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,100
+2023-09-07,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,500
+2023-10-10,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2022-02-07,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Paz,390
+2023-04-23,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,950
+2022-11-07,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,159
+2022-08-18,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,159
+2022-04-22,Ventilador,5662,Ulises del Dios Henriquez,Otros,Chalatenango,75
+2022-09-01,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,950
+2023-04-12,Cafetera,3312,Rene Quinteros Zamora,Otros,San Salvador,85
+2023-12-22,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,390
+2023-03-03,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,150
+2022-12-25,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,159
+2023-10-02,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2022-04-13,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2022-09-29,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,100
+2024-01-31,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2023-01-28,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2022-01-19,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,500
+2023-12-03,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,1150
+2023-05-16,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2023-10-07,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,950
+2022-02-25,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2022-09-05,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2024-01-11,Plancha,3312,Rene Quinteros Zamora,Otros,Cojutepeque,35
+2022-09-16,Cocina,5662,Ulises del Dios Henriquez,Otros,San Salvador,400
+2024-03-23,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2023-12-11,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,950
+2022-03-20,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2023-01-04,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2024-01-07,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2023-04-25,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,159
+2022-08-02,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2024-03-26,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,100
+2023-10-29,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2023-11-06,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2022-04-07,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2022-03-02,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,100
+2023-07-25,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Salvador,85
+2022-11-07,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2022-12-26,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,150
+2024-02-08,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2022-10-24,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,950
+2023-12-17,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,400
+2023-02-11,Celular,3312,Rene Quinteros Zamora,Portatil,San Salvador,390
+2022-09-15,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,950
+2023-01-11,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,75
+2022-12-13,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,150
+2022-05-20,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,85
+2024-03-07,Radio,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,150
+2022-02-06,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2023-06-07,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,75
+2022-06-01,Radio,5662,Ulises del Dios Henriquez,Portatil,La Paz,150
+2024-03-28,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,100
+2023-07-03,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,950
+2023-05-02,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2023-03-21,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2022-07-20,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2023-05-11,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,950
+2023-05-04,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,150
+2022-07-31,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,500
+2023-12-07,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,159
+2023-01-17,Radio,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,150
+2022-03-09,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,150
+2022-04-03,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2023-06-03,Plancha,3312,Rene Quinteros Zamora,Otros,San Salvador,35
+2023-04-03,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,100
+2024-01-01,Radio,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,150
+2022-08-29,Plancha,2422,Rosa Maria Guevara Elias,Otros,La Libertad,35
+2023-03-15,Plancha,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,35
+2022-03-13,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2022-09-28,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,75
+2022-07-05,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,500
+2023-05-24,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-12-11,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,85
+2023-05-23,Celular,5662,Ulises del Dios Henriquez,Portatil,Usulutan,390
+2023-12-21,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,950
+2024-01-17,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2023-07-17,Plancha,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,35
+2023-02-16,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2022-05-06,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,400
+2024-03-17,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,950
+2024-04-05,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Paz,75
+2022-12-18,Plancha,4976,Yazmin Veronica Ramirez,Otros,La Paz,35
+2022-07-15,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2023-03-21,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,500
+2022-12-04,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,950
+2023-03-24,Cocina,3312,Rene Quinteros Zamora,Otros,Santa Ana,400
+2024-04-02,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2023-09-21,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,150
+2023-03-31,Cocina,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,400
+2023-10-26,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,950
+2022-06-30,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Paz,400
+2023-11-18,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,500
+2023-10-31,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,500
+2022-11-11,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2023-03-26,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2024-02-09,Ventilador,5662,Ulises del Dios Henriquez,Otros,Usulutan,75
+2023-02-23,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,159
+2023-06-15,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2022-10-02,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,500
+2023-10-02,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2023-09-05,Celular,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,390
+2022-05-14,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,150
+2023-04-29,Computadora,2422,Rosa Maria Guevara Elias,Portatil,La Libertad,1150
+2022-01-24,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2023-03-23,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-09-17,Radio,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,150
+2024-02-20,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,950
+2023-12-04,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2024-03-01,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-05-21,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2022-10-05,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2022-04-23,Computadora,3312,Rene Quinteros Zamora,Portatil,Santa Ana,1150
+2022-12-16,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,950
+2022-06-17,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2024-02-14,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,950
+2023-01-03,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,150
+2023-11-05,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2023-05-18,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2022-09-16,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Paz,75
+2023-05-29,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,100
+2022-02-20,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2024-02-22,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2023-07-21,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2023-06-22,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,75
+2023-10-18,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,1150
+2022-08-09,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2023-07-18,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,159
+2023-09-10,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,75
+2022-04-02,Celular,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,390
+2022-01-06,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,950
+2023-06-29,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,950
+2024-04-09,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,100
+2023-01-16,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2023-08-03,Celular,3312,Rene Quinteros Zamora,Portatil,San Salvador,390
+2023-10-07,Radio,3312,Rene Quinteros Zamora,Portatil,San Miguel,150
+2023-11-29,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,75
+2024-02-07,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2024-01-19,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2023-03-22,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,500
+2023-12-31,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,500
+2022-06-29,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2022-02-19,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,400
+2022-12-29,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,1150
+2022-05-28,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2024-03-13,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2023-07-19,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-03-16,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,150
+2022-02-01,Computadora,3312,Rene Quinteros Zamora,Portatil,Cojutepeque,1150
+2023-10-23,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Paz,1150
+2022-09-03,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,159
+2022-05-23,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2022-02-04,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2023-04-12,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2023-02-24,Celular,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,390
+2022-07-22,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2023-08-19,Radio,3312,Rene Quinteros Zamora,Portatil,San Salvador,150
+2024-02-29,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2022-01-01,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,35
+2022-01-23,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2022-10-22,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-06-23,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2022-03-04,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-05-30,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,100
+2022-07-11,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,1150
+2022-11-06,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,159
+2022-02-09,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,1150
+2022-04-09,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Libertad,400
+2023-07-31,Ventilador,3312,Rene Quinteros Zamora,Otros,San Miguel,75
+2023-05-29,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2024-02-27,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,159
+2022-02-11,Ventilador,3312,Rene Quinteros Zamora,Otros,La Paz,75
+2024-01-08,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,1150
+2024-04-02,Celular,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,390
+2022-08-12,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,500
+2022-02-12,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2022-12-10,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-07-20,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2022-12-03,Ventilador,5662,Ulises del Dios Henriquez,Otros,Santa Ana,75
+2023-01-20,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Libertad,400
+2023-08-09,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,500
+2022-04-28,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2022-07-17,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,150
+2023-06-01,Radio,2422,Rosa Maria Guevara Elias,Portatil,La Paz,150
+2023-05-27,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,159
+2024-02-03,DVD,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,150
+2022-03-10,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-12-12,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2022-09-19,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2024-04-12,Plancha,5662,Ulises del Dios Henriquez,Otros,San Salvador,35
+2023-11-06,Celular,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,390
+2022-04-16,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,500
+2023-08-21,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-01-15,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2023-10-31,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2022-01-06,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,500
+2023-08-29,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2022-03-20,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,159
+2023-12-05,Cocina,4976,Yazmin Veronica Ramirez,Otros,Usulutan,400
+2023-01-01,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,159
+2023-10-16,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,100
+2023-07-21,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,159
+2023-12-09,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,150
+2023-05-08,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,75
+2022-12-13,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,390
+2022-05-04,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,500
+2023-03-10,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,150
+2022-04-15,Radio,5662,Ulises del Dios Henriquez,Portatil,San Miguel,150
+2022-11-01,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,500
+2022-12-19,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Paz,75
+2022-04-25,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,500
+2022-12-01,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2023-03-08,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,150
+2024-01-30,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2022-09-03,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,75
+2023-02-23,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,150
+2023-10-23,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,100
+2022-03-06,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,100
+2022-08-20,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2022-12-18,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2024-01-05,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,1150
+2023-10-25,Celular,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,390
+2023-01-08,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2024-03-12,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2022-10-19,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2024-01-01,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2022-09-03,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2023-12-22,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2022-10-10,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,100
+2023-07-09,Cocina,2422,Rosa Maria Guevara Elias,Otros,Santa Ana,400
+2022-06-28,Radio,3312,Rene Quinteros Zamora,Portatil,Santa Ana,150
+2022-04-11,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,500
+2022-04-07,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2022-04-28,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2022-10-14,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2022-09-02,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2022-03-18,Cafetera,2422,Rosa Maria Guevara Elias,Otros,San Salvador,85
+2022-01-16,Ventilador,3312,Rene Quinteros Zamora,Otros,Cojutepeque,75
+2023-11-29,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2022-09-17,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2023-05-18,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,150
+2023-07-25,Cocina,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,400
+2023-02-10,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2022-12-28,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,159
+2022-07-20,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2022-12-05,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2022-05-16,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2022-01-14,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,1150
+2022-08-12,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2022-06-16,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,500
+2023-06-19,Ventilador,5662,Ulises del Dios Henriquez,Otros,La Paz,75
+2022-08-11,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Libertad,75
+2023-05-22,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2022-12-25,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2023-09-14,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2023-10-14,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-02-26,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Miguel,85
+2023-08-05,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,100
+2024-03-15,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,159
+2024-03-18,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,500
+2023-01-18,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-09-04,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-08-20,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,159
+2022-05-21,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,950
+2022-09-29,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2022-09-04,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Paz,390
+2022-08-11,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,100
+2022-08-08,Radio,5662,Ulises del Dios Henriquez,Portatil,La Libertad,150
+2024-01-08,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,75
+2023-09-13,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2023-05-11,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,1150
+2022-12-01,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2023-03-08,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2022-02-14,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2022-07-01,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,150
+2023-08-31,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,500
+2023-01-21,Plancha,5662,Ulises del Dios Henriquez,Otros,Santa Ana,35
+2022-03-27,Computadora,3312,Rene Quinteros Zamora,Portatil,Usulutan,1150
+2022-11-24,Radio,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,150
+2022-08-28,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,950
+2022-01-11,Plancha,5662,Ulises del Dios Henriquez,Otros,La Paz,35
+2023-10-25,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,100
+2022-10-27,Computadora,3312,Rene Quinteros Zamora,Portatil,San Salvador,1150
+2024-01-10,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,159
+2023-04-22,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,150
+2022-04-07,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2022-07-04,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2023-12-19,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2023-01-14,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2022-08-23,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2023-12-16,Radio,3312,Rene Quinteros Zamora,Portatil,La Libertad,150
+2023-03-09,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2023-07-19,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,159
+2022-07-07,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2024-04-05,Plancha,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,35
+2023-10-04,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,85
+2023-06-30,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,75
+2022-07-23,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,159
+2022-07-02,Celular,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,390
+2022-11-11,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2023-04-17,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2022-06-17,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2023-10-04,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2024-01-08,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,85
+2023-04-12,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,950
+2023-09-03,Celular,3312,Rene Quinteros Zamora,Portatil,Usulutan,390
+2023-05-28,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2023-12-15,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2022-02-09,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2023-08-13,Plancha,5662,Ulises del Dios Henriquez,Otros,Santa Ana,35
+2023-07-21,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,950
+2022-02-19,Radio,3312,Rene Quinteros Zamora,Portatil,La Paz,150
+2022-03-06,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2022-11-22,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,100
+2022-10-20,Cocina,5662,Ulises del Dios Henriquez,Otros,La Paz,400
+2022-04-04,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,159
+2023-04-06,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,950
+2024-03-26,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,150
+2022-09-22,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,35
+2023-09-10,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2023-04-12,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2023-02-24,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2023-05-23,Radio,3312,Rene Quinteros Zamora,Portatil,La Libertad,150
+2022-03-10,Cocina,3312,Rene Quinteros Zamora,Otros,Usulutan,400
+2022-07-27,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Paz,75
+2024-02-01,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,950
+2023-03-21,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2022-08-02,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2022-04-22,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2024-04-10,Cocina,5662,Ulises del Dios Henriquez,Otros,La Paz,400
+2023-09-03,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,75
+2022-10-20,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,150
+2023-02-15,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-08-28,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2022-02-19,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,159
+2023-12-22,Cocina,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,400
+2022-08-19,Celular,5662,Ulises del Dios Henriquez,Portatil,San Miguel,390
+2022-02-05,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,85
+2022-07-24,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2022-06-15,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,400
+2023-09-18,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,400
+2024-04-09,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Salvador,85
+2024-01-15,Plancha,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,35
+2022-12-31,Cocina,5662,Ulises del Dios Henriquez,Otros,La Paz,400
+2023-12-18,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2022-11-26,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-05-26,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2023-09-20,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,150
+2022-11-17,Cafetera,3312,Rene Quinteros Zamora,Otros,Usulutan,85
+2023-04-01,Radio,3312,Rene Quinteros Zamora,Portatil,La Libertad,150
+2023-02-17,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,159
+2023-02-10,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,950
+2022-03-10,Plancha,5662,Ulises del Dios Henriquez,Otros,La Paz,35
+2024-02-12,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2022-11-02,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2024-03-21,Computadora,2422,Rosa Maria Guevara Elias,Portatil,La Paz,1150
+2023-09-29,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2023-09-21,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,159
+2023-03-01,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2023-05-27,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,150
+2023-05-06,Celular,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,390
+2022-02-16,Computadora,5662,Ulises del Dios Henriquez,Portatil,Usulutan,1150
+2024-02-14,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2022-09-10,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,159
+2022-12-06,Plancha,4976,Yazmin Veronica Ramirez,Otros,La Libertad,35
+2023-05-23,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Usulutan,85
+2024-01-28,Celular,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,390
+2023-09-14,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,35
+2022-03-12,Celular,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,390
+2023-07-30,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2023-05-03,Radio,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,150
+2023-08-25,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,500
+2022-05-07,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,159
+2022-11-10,Ventilador,3312,Rene Quinteros Zamora,Otros,Chalatenango,75
+2023-06-15,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2022-02-24,Celular,3312,Rene Quinteros Zamora,Portatil,La Libertad,390
+2023-12-31,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,85
+2023-07-14,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,159
+2023-04-15,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2022-04-02,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2023-03-30,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,950
+2023-06-20,Cafetera,2422,Rosa Maria Guevara Elias,Otros,La Paz,85
+2022-02-22,DVD,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,150
+2023-05-16,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2023-04-25,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2022-06-17,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2023-07-14,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Paz,1150
+2023-03-05,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2023-05-31,Cafetera,5662,Ulises del Dios Henriquez,Otros,La Libertad,85
+2022-07-06,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,100
+2024-02-04,Cafetera,3312,Rene Quinteros Zamora,Otros,San Salvador,85
+2023-05-26,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,1150
+2022-02-11,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2024-01-03,Radio,3312,Rene Quinteros Zamora,Portatil,La Libertad,150
+2022-12-12,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-11-23,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2023-04-25,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,100
+2022-02-01,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,35
+2024-02-28,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,159
+2022-09-14,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2023-03-06,Radio,3312,Rene Quinteros Zamora,Portatil,La Libertad,150
+2022-07-09,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,150
+2022-12-25,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,150
+2023-11-04,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2022-11-29,Radio,5662,Ulises del Dios Henriquez,Portatil,San Miguel,150
+2023-05-13,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,100
+2023-01-31,Plancha,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,35
+2022-12-16,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,390
+2022-09-03,Radio,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,150
+2022-03-04,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2022-04-09,Ventilador,5662,Ulises del Dios Henriquez,Otros,La Paz,75
+2023-01-02,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-02-16,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2022-07-03,Ventilador,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,75
+2023-05-15,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,400
+2022-04-16,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2022-08-07,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,950
+2023-12-22,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,390
+2022-11-18,Cafetera,2422,Rosa Maria Guevara Elias,Otros,La Libertad,85
+2024-01-16,Celular,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,390
+2023-07-14,Computadora,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,1150
+2022-09-18,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,400
+2022-03-02,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,950
+2022-12-23,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,159
+2023-06-03,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2023-12-19,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,35
+2022-09-10,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2022-11-27,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2022-06-26,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,159
+2024-03-29,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,100
+2023-07-17,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-10-31,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2023-10-20,Computadora,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,1150
+2022-08-05,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Santa Ana,75
+2023-07-29,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2022-03-31,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2023-01-09,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,500
+2022-05-01,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2024-03-20,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,159
+2024-01-02,Celular,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,390
+2022-09-11,Computadora,2422,Rosa Maria Guevara Elias,Portatil,La Libertad,1150
+2024-01-11,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Santa Ana,85
+2022-02-26,Celular,3312,Rene Quinteros Zamora,Portatil,Usulutan,390
+2023-08-19,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2022-10-13,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,100
+2022-01-31,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,150
+2024-01-21,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2022-07-08,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2023-02-14,Ventilador,5662,Ulises del Dios Henriquez,Otros,La Paz,75
+2022-07-10,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,85
+2024-03-29,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Libertad,1150
+2022-01-19,Cafetera,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,85
+2023-05-12,Cafetera,2422,Rosa Maria Guevara Elias,Otros,La Paz,85
+2022-07-07,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2024-01-16,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,500
+2022-02-10,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2022-04-21,Cafetera,3312,Rene Quinteros Zamora,Otros,Santa Ana,85
+2023-06-06,Plancha,3312,Rene Quinteros Zamora,Otros,Cojutepeque,35
+2022-09-26,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,159
+2022-03-16,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2023-01-04,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,950
+2022-12-08,Cafetera,3312,Rene Quinteros Zamora,Otros,Cojutepeque,85
+2023-06-05,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2022-10-29,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,159
+2023-05-11,Radio,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,150
+2023-03-29,Computadora,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,1150
+2022-06-22,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,85
+2023-12-24,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,159
+2022-10-14,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2023-06-08,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2023-12-25,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2022-02-19,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,1150
+2023-07-15,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,159
+2023-02-04,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,150
+2024-04-13,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,159
+2024-03-16,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,950
+2022-12-02,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2024-02-13,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2024-03-08,Plancha,3312,Rene Quinteros Zamora,Otros,Cojutepeque,35
+2022-01-28,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,150
+2022-01-04,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2024-02-04,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2023-10-16,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2023-12-24,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,75
+2023-03-19,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,150
+2022-12-01,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,500
+2022-04-20,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,1150
+2022-10-22,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-06-16,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,100
+2022-10-06,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2023-07-11,Computadora,2422,Rosa Maria Guevara Elias,Portatil,La Libertad,1150
+2023-10-19,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-12-12,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,390
+2024-02-14,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,1150
+2023-09-22,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,400
+2022-02-28,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-06-30,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,75
+2022-07-30,Radio,3312,Rene Quinteros Zamora,Portatil,La Paz,150
+2023-03-04,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,1150
+2023-12-12,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,400
+2024-03-06,Cocina,5662,Ulises del Dios Henriquez,Otros,La Libertad,400
+2024-03-19,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2022-08-01,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,85
+2023-06-05,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,950
+2022-07-15,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,100
+2023-07-30,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,159
+2023-10-16,Cocina,5662,Ulises del Dios Henriquez,Otros,La Libertad,400
+2022-05-25,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2024-02-02,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2024-01-24,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,150
+2023-03-30,Cafetera,3312,Rene Quinteros Zamora,Otros,La Paz,85
+2022-07-24,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,159
+2023-05-12,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2023-07-29,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,390
+2023-02-21,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Libertad,400
+2023-08-02,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,150
+2022-11-07,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,159
+2022-01-03,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2022-11-13,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,85
+2022-05-27,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-08-16,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-11-14,Cocina,5662,Ulises del Dios Henriquez,Otros,San Salvador,400
+2023-09-27,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,100
+2023-09-19,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,150
+2023-09-27,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,390
+2022-05-10,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2022-10-22,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,950
+2022-09-15,DVD,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,150
+2023-11-10,Plancha,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,35
+2023-01-07,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,1150
+2023-09-22,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,390
+2022-06-01,Ventilador,5662,Ulises del Dios Henriquez,Otros,San Salvador,75
+2023-04-30,Computadora,5662,Ulises del Dios Henriquez,Portatil,San Salvador,1150
+2022-12-05,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,85
+2024-04-02,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,35
+2022-08-06,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,159
+2024-01-16,Celular,5662,Ulises del Dios Henriquez,Portatil,Usulutan,390
+2022-07-19,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2023-07-21,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,950
+2023-11-25,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2022-12-30,Cocina,2422,Rosa Maria Guevara Elias,Otros,La Paz,400
+2023-12-14,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2023-12-21,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,950
+2023-02-22,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,1150
+2023-01-30,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2022-06-08,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2022-05-25,Celular,5662,Ulises del Dios Henriquez,Portatil,San Salvador,390
+2023-12-20,Plancha,4976,Yazmin Veronica Ramirez,Otros,La Paz,35
+2022-08-04,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,950
+2022-06-28,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Paz,75
+2023-06-22,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,159
+2023-08-10,Celular,5662,Ulises del Dios Henriquez,Portatil,San Miguel,390
+2024-03-01,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,100
+2023-03-27,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2024-01-02,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2022-09-12,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,950
+2023-06-12,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,950
+2022-08-13,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Miguel,85
+2022-02-25,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,100
+2023-08-10,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Usulutan,75
+2022-10-06,Radio,3312,Rene Quinteros Zamora,Portatil,Chalatenango,150
+2022-02-15,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,85
+2024-01-25,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,400
+2023-06-10,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,500
+2022-02-14,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2024-03-27,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,500
+2022-11-07,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,500
+2023-03-08,Ventilador,4976,Yazmin Veronica Ramirez,Otros,San Miguel,75
+2023-08-13,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,159
+2023-04-25,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,390
+2022-02-14,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,75
+2023-01-23,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,150
+2023-01-25,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2022-11-08,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,159
+2023-04-08,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-01-04,Celular,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,390
+2023-06-15,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,150
+2022-04-27,Celular,3312,Rene Quinteros Zamora,Portatil,Santa Ana,390
+2022-10-14,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,159
+2023-11-17,Ventilador,4976,Yazmin Veronica Ramirez,Otros,San Salvador,75
+2023-06-24,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-05-17,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,100
+2022-07-31,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-09-17,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2022-06-25,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2022-07-22,Celular,5662,Ulises del Dios Henriquez,Portatil,La Paz,390
+2022-04-13,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2023-11-27,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2023-10-25,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2023-03-04,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2024-02-06,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2022-08-22,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,1150
+2023-04-14,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2024-01-23,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,150
+2022-03-04,Cocina,3312,Rene Quinteros Zamora,Otros,La Paz,400
+2023-07-04,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2022-08-22,Cocina,3312,Rene Quinteros Zamora,Otros,Santa Ana,400
+2023-10-31,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,35
+2022-06-24,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2022-09-21,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,500
+2022-06-10,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Miguel,85
+2023-10-04,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,1150
+2023-02-20,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2023-04-14,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2022-01-29,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,159
+2023-05-08,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Usulutan,85
+2023-08-13,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,159
+2024-03-20,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2023-08-26,Cocina,2422,Rosa Maria Guevara Elias,Otros,San Miguel,400
+2023-05-30,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,150
+2023-07-10,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2023-11-26,Cocina,2422,Rosa Maria Guevara Elias,Otros,San Miguel,400
+2022-06-06,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,390
+2023-09-28,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,35
+2022-05-02,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,100
+2023-03-19,Computadora,3312,Rene Quinteros Zamora,Portatil,San Salvador,1150
+2023-05-10,Cocina,5662,Ulises del Dios Henriquez,Otros,Usulutan,400
+2022-11-11,Plancha,4976,Yazmin Veronica Ramirez,Otros,Usulutan,35
+2023-09-25,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,950
+2022-02-26,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,950
+2022-10-07,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,100
+2022-05-23,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,950
+2024-02-17,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,150
+2023-12-23,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2022-04-05,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,950
+2022-05-01,Ventilador,5662,Ulises del Dios Henriquez,Otros,La Libertad,75
+2024-03-09,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2023-04-13,Ventilador,2422,Rosa Maria Guevara Elias,Otros,San Miguel,75
+2022-10-07,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-12-08,Radio,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,150
+2023-11-17,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2023-01-05,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2022-07-28,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,150
+2022-06-18,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,85
+2022-09-06,Radio,5662,Ulises del Dios Henriquez,Portatil,San Salvador,150
+2023-07-24,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-04-24,Cafetera,3312,Rene Quinteros Zamora,Otros,Usulutan,85
+2022-01-22,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2024-03-29,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Paz,150
+2023-08-14,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2023-03-17,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Paz,400
+2022-12-17,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,500
+2023-11-07,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2022-10-19,Computadora,3312,Rene Quinteros Zamora,Portatil,La Paz,1150
+2023-04-25,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,150
+2023-10-29,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2023-11-14,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,1150
+2022-05-07,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2023-01-20,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2024-01-16,Ventilador,5662,Ulises del Dios Henriquez,Otros,Santa Ana,75
+2023-01-12,Computadora,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,1150
+2023-08-01,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2022-09-11,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Libertad,1150
+2023-04-30,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2023-11-03,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,1150
+2023-07-26,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2023-11-14,Celular,3312,Rene Quinteros Zamora,Portatil,La Paz,390
+2023-08-14,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,100
+2022-10-18,Radio,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,150
+2023-01-03,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2023-02-12,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2023-02-17,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,159
+2022-10-09,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2023-05-16,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2023-11-18,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,75
+2022-12-07,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,1150
+2022-10-25,Cafetera,2422,Rosa Maria Guevara Elias,Otros,San Miguel,85
+2022-07-12,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,400
+2023-01-30,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,500
+2022-07-10,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,150
+2023-01-18,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2023-05-11,Cocina,5662,Ulises del Dios Henriquez,Otros,La Libertad,400
+2023-11-02,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2024-01-05,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,35
+2023-05-23,Plancha,5662,Ulises del Dios Henriquez,Otros,San Salvador,35
+2023-05-13,Celular,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,390
+2022-03-28,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2023-04-19,Ventilador,2422,Rosa Maria Guevara Elias,Otros,San Miguel,75
+2022-01-10,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2022-12-31,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2023-08-16,Plancha,2422,Rosa Maria Guevara Elias,Otros,Santa Ana,35
+2023-06-04,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,159
+2023-07-08,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,85
+2022-08-27,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,159
+2023-03-15,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2022-09-29,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2022-09-26,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2022-06-02,Celular,3312,Rene Quinteros Zamora,Portatil,Usulutan,390
+2022-12-27,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2022-11-15,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2023-02-28,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2022-08-03,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,1150
+2022-08-22,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,500
+2022-03-13,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,85
+2022-08-27,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,500
+2022-01-10,Computadora,5662,Ulises del Dios Henriquez,Portatil,San Miguel,1150
+2022-06-02,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2024-01-22,Celular,2422,Rosa Maria Guevara Elias,Portatil,La Paz,390
+2024-04-05,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,150
+2022-07-03,Celular,2422,Rosa Maria Guevara Elias,Portatil,La Paz,390
+2023-02-19,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2022-04-09,Cocina,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,400
+2023-02-20,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2024-01-04,Radio,5662,Ulises del Dios Henriquez,Portatil,La Libertad,150
+2022-08-06,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Paz,390
+2024-02-21,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-08-05,Plancha,3312,Rene Quinteros Zamora,Otros,San Miguel,35
+2023-10-13,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,100
+2023-02-14,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2024-02-16,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2022-09-16,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,1150
+2023-06-29,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,159
+2024-03-05,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,1150
+2023-11-22,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,150
+2022-12-07,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,75
+2022-04-20,Computadora,3312,Rene Quinteros Zamora,Portatil,San Salvador,1150
+2023-06-16,Plancha,4976,Yazmin Veronica Ramirez,Otros,La Libertad,35
+2023-11-03,Cocina,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,400
+2022-12-11,Plancha,2422,Rosa Maria Guevara Elias,Otros,La Libertad,35
+2022-03-17,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,400
+2024-01-12,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,500
+2023-08-19,Radio,3312,Rene Quinteros Zamora,Portatil,Santa Ana,150
+2023-02-18,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,150
+2022-05-15,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,950
+2022-09-20,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,500
+2023-02-07,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,950
+2022-07-04,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2022-11-08,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,150
+2023-12-06,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2023-10-06,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,500
+2023-05-04,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,159
+2022-10-18,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2022-10-23,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,150
+2024-04-11,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,500
+2022-06-30,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,159
+2024-01-15,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,85
+2023-02-23,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,500
+2023-02-13,Celular,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,390
+2023-12-28,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2023-12-25,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,950
+2022-07-16,Computadora,3312,Rene Quinteros Zamora,Portatil,San Salvador,1150
+2022-10-26,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2023-03-16,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,150
+2023-12-26,Celular,5662,Ulises del Dios Henriquez,Portatil,San Salvador,390
+2022-10-07,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2023-08-16,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,500
+2023-02-04,Celular,3312,Rene Quinteros Zamora,Portatil,San Salvador,390
+2023-09-16,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2024-01-17,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2022-01-19,Celular,5662,Ulises del Dios Henriquez,Portatil,Usulutan,390
+2022-03-10,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2022-06-18,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,950
+2023-02-12,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,150
+2022-10-21,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2023-01-25,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,950
+2023-05-09,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2023-11-20,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,100
+2022-11-09,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2022-10-14,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2022-03-31,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,100
+2023-03-03,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2022-05-03,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2024-03-07,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Paz,1150
+2023-07-23,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2024-02-11,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,100
+2024-01-01,Cafetera,5662,Ulises del Dios Henriquez,Otros,Santa Ana,85
+2023-12-27,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,950
+2022-10-20,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,159
+2024-01-09,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,500
+2024-01-28,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,950
+2023-03-01,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Libertad,75
+2024-03-25,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,950
+2024-01-08,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,150
+2022-11-15,Cocina,5662,Ulises del Dios Henriquez,Otros,Santa Ana,400
+2022-03-31,Radio,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,150
+2022-09-28,Plancha,5662,Ulises del Dios Henriquez,Otros,San Miguel,35
+2023-03-27,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2023-02-20,Plancha,5662,Ulises del Dios Henriquez,Otros,Usulutan,35
+2023-11-11,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,400
+2022-12-03,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,100
+2022-07-26,Celular,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,390
+2022-04-16,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2022-10-31,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,500
+2022-07-20,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2023-10-25,Cafetera,3312,Rene Quinteros Zamora,Otros,Santa Ana,85
+2023-06-20,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2022-06-23,Cocina,3312,Rene Quinteros Zamora,Otros,San Salvador,400
+2023-02-20,Radio,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,150
+2023-02-20,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2022-06-27,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2024-04-04,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2022-11-28,Plancha,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,35
+2023-06-06,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,35
+2022-05-23,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2022-03-21,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2023-03-22,Cocina,5662,Ulises del Dios Henriquez,Otros,La Paz,400
+2023-02-16,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,950
+2023-03-27,Cafetera,3312,Rene Quinteros Zamora,Otros,San Miguel,85
+2023-09-18,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,150
+2023-03-12,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,1150
+2022-11-20,Plancha,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,35
+2022-12-17,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,1150
+2022-05-26,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-04-21,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,100
+2022-09-22,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,85
+2024-01-19,Celular,3312,Rene Quinteros Zamora,Portatil,Usulutan,390
+2022-02-21,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,950
+2023-03-05,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Paz,390
+2022-09-13,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2023-11-20,Ventilador,4976,Yazmin Veronica Ramirez,Otros,San Miguel,75
+2022-12-30,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,159
+2023-11-23,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,75
+2023-09-17,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2023-04-07,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-08-17,Plancha,5662,Ulises del Dios Henriquez,Otros,La Libertad,35
+2022-11-12,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2023-04-02,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2022-04-18,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,1150
+2022-09-29,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,950
+2023-10-03,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,150
+2024-03-27,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,500
+2023-04-24,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-01-10,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2024-01-14,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,75
+2024-02-17,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2023-05-27,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,500
+2022-08-01,Celular,3312,Rene Quinteros Zamora,Portatil,La Paz,390
+2023-06-02,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,950
+2022-11-16,Radio,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,150
+2023-10-03,Plancha,5662,Ulises del Dios Henriquez,Otros,San Miguel,35
+2023-07-04,Celular,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,390
+2022-04-25,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,150
+2022-06-20,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,150
+2022-06-24,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,35
+2023-02-13,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2022-01-11,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2022-09-07,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2022-03-22,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,159
+2022-04-16,Radio,5662,Ulises del Dios Henriquez,Portatil,Usulutan,150
+2022-01-20,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,950
+2022-01-11,Celular,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,390
+2024-01-29,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2023-09-29,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,100
+2023-07-12,Radio,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,150
+2022-03-06,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,100
+2022-06-27,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2023-08-07,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2023-08-16,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,159
+2022-12-25,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-01-12,Cafetera,3312,Rene Quinteros Zamora,Otros,Santa Ana,85
+2023-06-29,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,500
+2023-05-24,Celular,3312,Rene Quinteros Zamora,Portatil,Santa Ana,390
+2022-04-21,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,159
+2023-10-06,Cocina,3312,Rene Quinteros Zamora,Otros,Chalatenango,400
+2022-10-05,Computadora,5662,Ulises del Dios Henriquez,Portatil,San Miguel,1150
+2024-03-26,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Paz,1150
+2023-08-31,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,150
+2023-08-19,Radio,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,150
+2023-12-25,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2022-10-11,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2023-11-08,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,500
+2023-12-10,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,159
+2023-07-25,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2023-12-22,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2024-03-26,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2022-05-27,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,500
+2023-01-27,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2022-12-23,Cocina,2422,Rosa Maria Guevara Elias,Otros,Usulutan,400
+2023-03-09,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,35
+2023-05-17,Radio,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,150
+2022-09-13,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,950
+2022-02-10,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2022-08-02,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,950
+2023-05-05,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,159
+2023-03-21,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,85
+2022-08-08,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,150
+2024-03-17,Plancha,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,35
+2022-07-07,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2022-06-27,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,950
+2022-02-17,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2023-05-14,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,100
+2023-10-20,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,1150
+2022-01-07,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,500
+2022-05-13,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,150
+2023-08-08,Ventilador,5662,Ulises del Dios Henriquez,Otros,La Paz,75
+2023-10-02,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2022-01-23,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2023-07-04,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Usulutan,85
+2023-11-10,Cafetera,3312,Rene Quinteros Zamora,Otros,San Salvador,85
+2023-11-26,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2023-04-01,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2022-06-23,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,150
+2022-10-29,Radio,5662,Ulises del Dios Henriquez,Portatil,Chalatenango,150
+2022-07-28,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,500
+2023-04-14,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2023-01-08,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2024-03-29,Plancha,4976,Yazmin Veronica Ramirez,Otros,La Paz,35
+2023-11-10,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,150
+2022-07-07,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,100
+2023-04-10,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,500
+2022-03-02,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2023-03-13,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2022-02-24,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,159
+2022-04-15,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,400
+2023-05-13,Ventilador,3312,Rene Quinteros Zamora,Otros,San Miguel,75
+2023-07-03,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2022-08-02,Ventilador,3312,Rene Quinteros Zamora,Otros,Usulutan,75
+2022-11-12,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Libertad,75
+2023-09-23,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2023-11-17,DVD,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,150
+2023-03-17,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,950
+2023-12-05,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,159
+2022-07-03,Cocina,5662,Ulises del Dios Henriquez,Otros,La Libertad,400
+2022-08-02,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,159
+2023-06-24,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2023-04-21,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2022-01-23,Plancha,2422,Rosa Maria Guevara Elias,Otros,San Miguel,35
+2023-02-10,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,159
+2023-07-13,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2022-12-03,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2022-06-21,Computadora,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,1150
+2024-01-24,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,35
+2022-07-31,Ventilador,5662,Ulises del Dios Henriquez,Otros,San Miguel,75
+2023-08-13,Radio,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,150
+2024-04-08,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Paz,75
+2023-08-31,Cafetera,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,85
+2024-02-02,Ventilador,2422,Rosa Maria Guevara Elias,Otros,San Miguel,75
+2022-11-26,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2023-03-14,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2022-08-12,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Salvador,85
+2022-03-22,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2022-09-21,Celular,3312,Rene Quinteros Zamora,Portatil,Cojutepeque,390
+2022-08-21,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,1150
+2023-11-12,Plancha,4976,Yazmin Veronica Ramirez,Otros,Usulutan,35
+2022-06-21,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2022-11-09,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,75
+2023-02-26,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2023-01-20,Radio,3312,Rene Quinteros Zamora,Portatil,Cojutepeque,150
+2023-03-17,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2024-04-08,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2023-03-05,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,159
+2023-11-01,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,75
+2023-07-28,Computadora,3312,Rene Quinteros Zamora,Portatil,Chalatenango,1150
+2023-09-15,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2022-10-02,Cafetera,3312,Rene Quinteros Zamora,Otros,Santa Ana,85
+2022-10-27,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2023-06-13,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2022-05-21,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2022-02-22,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,150
+2023-03-19,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2023-03-24,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,100
+2023-01-27,Cafetera,5662,Ulises del Dios Henriquez,Otros,La Libertad,85
+2023-12-13,Plancha,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,35
+2022-02-01,Plancha,3312,Rene Quinteros Zamora,Otros,San Salvador,35
+2022-01-02,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2023-09-21,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,150
+2022-08-23,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2022-02-13,Cocina,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,400
+2024-03-29,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,150
+2023-04-14,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,100
+2022-09-07,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,950
+2022-03-01,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,150
+2023-09-13,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,1150
+2023-06-16,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,400
+2022-01-26,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2022-03-29,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,950
+2023-03-19,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,75
+2023-11-14,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2023-01-16,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,390
+2022-06-09,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,150
+2023-02-08,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2023-08-25,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,150
+2023-01-26,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2023-01-07,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2024-03-16,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,950
+2023-11-30,Ventilador,5662,Ulises del Dios Henriquez,Otros,San Miguel,75
+2023-08-08,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,159
+2023-01-11,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,75
+2022-10-06,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Libertad,1150
+2023-04-28,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,100
+2022-05-24,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2022-09-23,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-04-17,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,500
+2022-02-05,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2022-10-03,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,159
+2023-02-24,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,100
+2023-12-14,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Usulutan,85
+2023-09-23,Cocina,3312,Rene Quinteros Zamora,Otros,Cojutepeque,400
+2024-02-02,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2023-02-13,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,159
+2022-09-07,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,950
+2023-01-07,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,500
+2022-02-10,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,159
+2022-05-21,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2024-01-31,DVD,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,150
+2022-04-18,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,500
+2023-01-05,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,75
+2023-08-10,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2022-06-07,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,85
+2022-02-11,Ventilador,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,75
+2023-02-27,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2023-08-23,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2022-07-22,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2023-04-01,Cocina,5662,Ulises del Dios Henriquez,Otros,Chalatenango,400
+2022-07-17,Cocina,2422,Rosa Maria Guevara Elias,Otros,La Libertad,400
+2023-12-24,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2024-01-22,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,159
+2022-03-20,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2023-05-22,Celular,2422,Rosa Maria Guevara Elias,Portatil,La Libertad,390
+2023-05-26,Ventilador,5662,Ulises del Dios Henriquez,Otros,Chalatenango,75
+2022-01-11,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,1150
+2023-09-19,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,150
+2023-01-15,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,100
+2023-01-14,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2022-02-28,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,400
+2022-03-13,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,390
+2022-12-16,Computadora,5662,Ulises del Dios Henriquez,Portatil,Usulutan,1150
+2023-12-24,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,950
+2023-05-25,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2022-07-25,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,400
+2022-07-31,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,85
+2022-12-31,Radio,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,150
+2023-07-18,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,75
+2023-10-25,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,500
+2023-08-25,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,500
+2023-01-15,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,500
+2023-02-17,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,150
+2023-10-08,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,100
+2022-08-01,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Salvador,1150
+2024-02-04,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,159
+2023-04-19,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,500
+2023-10-01,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,500
+2022-09-01,Plancha,3312,Rene Quinteros Zamora,Otros,Santa Ana,35
+2022-06-19,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2022-11-10,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2024-01-11,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,950
+2023-12-25,Plancha,2422,Rosa Maria Guevara Elias,Otros,La Libertad,35
+2022-05-09,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2022-01-22,Cocina,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,400
+2023-05-15,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,100
+2024-03-17,Radio,2422,Rosa Maria Guevara Elias,Portatil,Usulutan,150
+2022-04-09,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,100
+2023-09-05,Plancha,4976,Yazmin Veronica Ramirez,Otros,Usulutan,35
+2023-08-13,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,500
+2023-02-11,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,35
+2022-12-23,Radio,5662,Ulises del Dios Henriquez,Portatil,San Salvador,150
+2022-11-14,Cocina,3312,Rene Quinteros Zamora,Otros,Chalatenango,400
+2022-10-12,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Miguel,85
+2024-03-13,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,150
+2023-11-01,Ventilador,3312,Rene Quinteros Zamora,Otros,Usulutan,75
+2024-04-12,Cocina,2422,Rosa Maria Guevara Elias,Otros,Usulutan,400
+2022-08-04,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2022-08-31,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,150
+2023-10-18,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,500
+2024-01-01,Celular,3312,Rene Quinteros Zamora,Portatil,Santa Ana,390
+2022-08-12,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2022-11-29,Ventilador,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,75
+2023-07-07,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,150
+2022-12-23,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,500
+2023-04-04,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2022-08-21,Celular,3312,Rene Quinteros Zamora,Portatil,La Paz,390
+2023-04-04,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2022-07-01,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,950
+2022-02-11,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2022-04-16,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Salvador,85
+2023-10-26,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Paz,1150
+2022-10-14,Cocina,5662,Ulises del Dios Henriquez,Otros,San Miguel,400
+2022-08-14,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2022-03-05,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Libertad,400
+2022-07-28,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,500
+2022-11-07,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,100
+2023-09-02,DVD,3312,Rene Quinteros Zamora,Entretenimiento,La Paz,150
+2022-11-29,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-01-11,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2023-10-31,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,85
+2023-09-26,Cocina,3312,Rene Quinteros Zamora,Otros,Usulutan,400
+2023-01-16,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,150
+2024-03-06,Cafetera,4976,Yazmin Veronica Ramirez,Otros,Usulutan,85
+2023-03-18,Radio,5662,Ulises del Dios Henriquez,Portatil,La Paz,150
+2023-06-17,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2023-12-01,Plancha,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,35
+2023-01-05,Radio,3312,Rene Quinteros Zamora,Portatil,Chalatenango,150
+2024-02-06,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2022-08-20,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,159
+2022-09-01,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2023-04-09,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,100
+2023-10-03,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,950
+2023-07-08,Computadora,3312,Rene Quinteros Zamora,Portatil,Usulutan,1150
+2022-03-03,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,75
+2023-07-30,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,500
+2024-01-07,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Paz,150
+2024-02-07,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,75
+2024-03-31,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2023-07-14,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2023-12-29,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,159
+2023-10-14,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2022-01-23,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2023-03-02,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,150
+2023-11-25,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2023-06-20,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2023-02-02,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,400
+2024-01-15,Radio,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,150
+2024-04-08,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2023-03-07,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Paz,150
+2022-02-12,Computadora,5662,Ulises del Dios Henriquez,Portatil,Usulutan,1150
+2023-05-19,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,150
+2023-06-20,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2023-02-12,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,500
+2023-02-13,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2022-08-19,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,35
+2023-04-08,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2022-02-23,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,159
+2023-09-28,Radio,5662,Ulises del Dios Henriquez,Portatil,San Miguel,150
+2023-05-04,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2023-02-27,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,100
+2023-12-03,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,159
+2023-05-12,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2024-02-19,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,100
+2023-09-24,Consola,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,950
+2022-08-16,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,390
+2022-04-13,Cocina,5662,Ulises del Dios Henriquez,Otros,San Miguel,400
+2022-06-01,Ventilador,3312,Rene Quinteros Zamora,Otros,San Salvador,75
+2022-01-18,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2022-02-13,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,159
+2022-05-03,Cocina,5662,Ulises del Dios Henriquez,Otros,Usulutan,400
+2022-06-16,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,35
+2022-08-28,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,950
+2023-11-19,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,100
+2023-01-20,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2023-12-11,Ventilador,5662,Ulises del Dios Henriquez,Otros,Chalatenango,75
+2023-01-05,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,159
+2022-03-22,Ventilador,3312,Rene Quinteros Zamora,Otros,Chalatenango,75
+2023-12-24,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2022-04-16,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,500
+2023-01-30,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,400
+2023-11-12,Radio,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,150
+2023-08-18,Cafetera,3312,Rene Quinteros Zamora,Otros,La Paz,85
+2022-01-21,Radio,5662,Ulises del Dios Henriquez,Portatil,San Salvador,150
+2024-04-06,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,100
+2023-01-28,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2023-12-30,Cocina,3312,Rene Quinteros Zamora,Otros,Cojutepeque,400
+2024-03-05,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2023-12-25,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,159
+2022-02-05,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,100
+2023-06-17,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,500
+2022-09-17,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,150
+2023-07-23,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,500
+2023-08-16,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,Usulutan,500
+2022-04-01,Radio,3312,Rene Quinteros Zamora,Portatil,Cojutepeque,150
+2023-12-04,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2023-12-19,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,390
+2023-05-19,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,150
+2022-04-10,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2023-07-18,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,1150
+2023-06-06,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,100
+2022-09-16,Computadora,5662,Ulises del Dios Henriquez,Portatil,Chalatenango,1150
+2022-11-21,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-11-10,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,500
+2022-12-25,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,100
+2024-04-02,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,85
+2023-04-24,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,75
+2022-09-15,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,150
+2022-12-21,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,1150
+2022-03-01,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2022-01-28,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,100
+2024-02-01,Radio,5662,Ulises del Dios Henriquez,Portatil,Usulutan,150
+2022-10-15,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Usulutan,85
+2022-01-25,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Salvador,400
+2023-04-04,Cafetera,5662,Ulises del Dios Henriquez,Otros,La Libertad,85
+2023-03-06,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,150
+2023-09-26,Plancha,5662,Ulises del Dios Henriquez,Otros,San Miguel,35
+2023-08-10,Ventilador,4976,Yazmin Veronica Ramirez,Otros,San Miguel,75
+2023-01-18,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,100
+2023-01-28,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,75
+2022-08-23,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,390
+2024-03-30,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,950
+2022-10-05,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,150
+2023-02-26,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2024-01-28,Computadora,3312,Rene Quinteros Zamora,Portatil,San Miguel,1150
+2022-09-08,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,100
+2022-07-28,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,950
+2023-11-16,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,500
+2023-06-11,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,150
+2023-06-20,Ventilador,4976,Yazmin Veronica Ramirez,Otros,San Salvador,75
+2023-11-02,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,950
+2022-08-21,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,950
+2022-09-28,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,950
+2023-03-06,Computadora,3312,Rene Quinteros Zamora,Portatil,La Paz,1150
+2022-08-26,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,950
+2023-10-05,DVD,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,150
+2023-09-06,Cocina,3312,Rene Quinteros Zamora,Otros,Usulutan,400
+2022-11-02,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2023-06-18,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Usulutan,950
+2023-07-18,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,159
+2022-12-13,Plancha,5662,Ulises del Dios Henriquez,Otros,Usulutan,35
+2023-04-26,Radio,2422,Rosa Maria Guevara Elias,Portatil,San Miguel,150
+2024-03-31,Ventilador,3312,Rene Quinteros Zamora,Otros,Santa Ana,75
+2022-04-03,Cafetera,5662,Ulises del Dios Henriquez,Otros,La Libertad,85
+2023-01-31,Plancha,5662,Ulises del Dios Henriquez,Otros,La Libertad,35
+2022-09-17,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,150
+2023-08-17,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,La Libertad,100
+2023-06-05,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2023-11-03,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,500
+2023-11-25,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,500
+2022-02-16,Celular,5662,Ulises del Dios Henriquez,Portatil,La Libertad,390
+2022-01-25,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,85
+2023-10-12,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Libertad,75
+2022-10-31,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,390
+2022-12-26,Cocina,2422,Rosa Maria Guevara Elias,Otros,Usulutan,400
+2023-03-04,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Libertad,85
+2022-05-14,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Libertad,1150
+2022-10-24,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,390
+2022-09-20,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,159
+2023-02-25,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Paz,390
+2024-01-26,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,100
+2022-10-10,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,159
+2022-03-23,Radio,2422,Rosa Maria Guevara Elias,Portatil,San Salvador,150
+2023-09-11,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,100
+2023-09-26,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,150
+2024-03-11,Cocina,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,400
+2024-03-05,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,159
+2022-01-05,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,100
+2023-02-13,Cocina,3312,Rene Quinteros Zamora,Otros,La Paz,400
+2022-03-04,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,159
+2024-04-08,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,1150
+2022-02-18,Cocina,5662,Ulises del Dios Henriquez,Otros,La Libertad,400
+2023-06-04,Computadora,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,1150
+2022-06-07,Plancha,3312,Rene Quinteros Zamora,Otros,Cojutepeque,35
+2023-08-28,Cocina,5662,Ulises del Dios Henriquez,Otros,La Paz,400
+2023-07-01,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,100
+2022-08-26,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,1150
+2022-06-07,Plancha,3312,Rene Quinteros Zamora,Otros,La Libertad,35
+2023-08-01,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,500
+2022-10-03,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2023-12-26,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Salvador,400
+2023-04-27,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,159
+2023-07-18,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,159
+2023-05-19,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-03-19,Ventilador,3312,Rene Quinteros Zamora,Otros,San Salvador,75
+2022-08-22,Plancha,2422,Rosa Maria Guevara Elias,Otros,La Libertad,35
+2024-03-03,Cafetera,5662,Ulises del Dios Henriquez,Otros,Usulutan,85
+2023-10-28,Celular,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,390
+2023-07-17,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2022-08-09,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2023-09-15,Radio,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,150
+2023-10-31,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,390
+2023-02-06,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,400
+2022-04-18,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,500
+2023-12-10,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,159
+2023-11-30,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2024-03-17,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2022-06-26,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2022-05-24,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,35
+2023-01-22,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,950
+2023-05-31,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2022-03-27,Ventilador,3312,Rene Quinteros Zamora,Otros,San Miguel,75
+2023-12-18,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,150
+2024-04-04,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-03-11,Celular,5662,Ulises del Dios Henriquez,Portatil,La Libertad,390
+2022-04-19,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2023-04-20,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,950
+2022-12-28,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Santa Ana,159
+2023-09-23,Computadora,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,1150
+2022-01-29,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,500
+2023-01-18,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2023-02-08,Celular,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,390
+2022-04-23,Cocina,4976,Yazmin Veronica Ramirez,Otros,Usulutan,400
+2023-10-21,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2024-01-06,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2023-10-16,Radio,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,150
+2023-10-02,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,150
+2022-04-16,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2022-09-20,DVD,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,150
+2023-10-15,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Cojutepeque,1150
+2022-12-21,Ventilador,2422,Rosa Maria Guevara Elias,Otros,San Salvador,75
+2023-10-06,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,159
+2023-04-11,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,159
+2022-04-22,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,1150
+2023-03-14,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,35
+2024-03-09,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2022-06-23,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,500
+2023-09-15,Cocina,4976,Yazmin Veronica Ramirez,Otros,La Libertad,400
+2022-12-02,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,1150
+2024-02-24,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2022-10-13,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Salvador,85
+2023-03-07,Radio,3312,Rene Quinteros Zamora,Portatil,La Paz,150
+2023-06-06,Cafetera,3312,Rene Quinteros Zamora,Otros,La Paz,85
+2022-02-08,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,85
+2022-06-14,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,La Paz,950
+2022-09-19,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,35
+2023-04-22,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Cojutepeque,500
+2023-04-16,Cafetera,5662,Ulises del Dios Henriquez,Otros,Santa Ana,85
+2024-03-28,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,100
+2022-04-04,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,950
+2024-01-03,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Santa Ana,85
+2023-04-15,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,159
+2023-07-11,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2022-04-19,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,75
+2024-03-25,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,75
+2022-06-24,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Salvador,159
+2023-10-27,Plancha,3312,Rene Quinteros Zamora,Otros,Usulutan,35
+2022-02-02,DVD,3312,Rene Quinteros Zamora,Entretenimiento,San Miguel,150
+2022-06-27,Radio,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,150
+2022-09-06,Radio,5662,Ulises del Dios Henriquez,Portatil,San Miguel,150
+2023-05-19,Plancha,4976,Yazmin Veronica Ramirez,Otros,Usulutan,35
+2023-03-11,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,150
+2023-06-21,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2023-10-30,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,150
+2023-01-25,Celular,5662,Ulises del Dios Henriquez,Portatil,San Miguel,390
+2022-08-05,Radio,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,150
+2022-02-08,Bocina,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,159
+2023-05-23,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,500
+2023-03-20,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2022-06-15,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,75
+2022-12-13,Cocina,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,400
+2024-01-22,Consola,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,950
+2022-04-15,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,159
+2023-08-08,Ventilador,3312,Rene Quinteros Zamora,Otros,La Paz,75
+2023-03-07,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,150
+2023-10-17,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2024-02-07,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Salvador,950
+2024-02-07,Ventilador,2422,Rosa Maria Guevara Elias,Otros,San Miguel,75
+2022-01-07,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,150
+2023-09-21,Asistente inteligente,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,100
+2023-12-14,Plancha,3312,Rene Quinteros Zamora,Otros,San Salvador,35
+2024-03-18,Celular,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,390
+2023-12-13,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,150
+2023-07-20,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,159
+2022-03-19,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,35
+2024-01-19,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Salvador,390
+2022-01-28,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2022-12-17,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,950
+2023-11-23,Computadora,2422,Rosa Maria Guevara Elias,Portatil,San Salvador,1150
+2023-06-04,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,150
+2024-01-06,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,500
+2022-11-16,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,100
+2023-11-24,Cocina,5662,Ulises del Dios Henriquez,Otros,San Miguel,400
+2024-02-21,Plancha,3312,Rene Quinteros Zamora,Otros,La Paz,35
+2024-01-19,Plancha,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,35
+2023-03-01,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Usulutan,75
+2023-12-14,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,500
+2022-12-30,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,500
+2023-02-08,Plancha,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,35
+2024-03-21,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,500
+2022-02-08,Consola,3312,Rene Quinteros Zamora,Entretenimiento,Santa Ana,950
+2023-02-11,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,La Paz,500
+2022-08-17,Ventilador,4976,Yazmin Veronica Ramirez,Otros,La Paz,75
+2022-04-23,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2023-04-24,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,85
+2022-11-19,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,950
+2023-04-11,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Chalatenango,159
+2023-05-05,Celular,5662,Ulises del Dios Henriquez,Portatil,Santa Ana,390
+2023-10-10,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Chalatenango,500
+2022-04-15,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,159
+2022-04-06,Computadora,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,1150
+2022-02-20,Computadora,5662,Ulises del Dios Henriquez,Portatil,La Libertad,1150
+2023-01-18,Plancha,4976,Yazmin Veronica Ramirez,Otros,Usulutan,35
+2023-09-26,Radio,5662,Ulises del Dios Henriquez,Portatil,Usulutan,150
+2022-11-08,Ventilador,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,75
+2022-08-17,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Usulutan,85
+2022-03-29,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Paz,390
+2022-07-02,Radio,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,150
+2023-03-06,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2023-01-17,Cocina,2422,Rosa Maria Guevara Elias,Otros,San Miguel,400
+2022-03-10,Computadora,4976,Yazmin Veronica Ramirez,Portatil,San Miguel,1150
+2022-05-13,Plancha,3312,Rene Quinteros Zamora,Otros,San Miguel,35
+2023-01-03,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2022-03-08,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,950
+2022-08-26,Televisor,2422,Rosa Maria Guevara Elias,Entretenimiento,Cojutepeque,500
+2023-04-08,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Salvador,100
+2022-05-18,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2022-09-14,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,159
+2022-09-11,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,150
+2023-11-28,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2023-10-29,Ventilador,4976,Yazmin Veronica Ramirez,Otros,Chalatenango,75
+2023-07-23,Ventilador,2422,Rosa Maria Guevara Elias,Otros,Usulutan,75
+2023-10-11,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,100
+2023-07-14,Cafetera,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,85
+2022-07-30,Cocina,2422,Rosa Maria Guevara Elias,Otros,San Miguel,400
+2022-10-16,Radio,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,150
+2022-04-17,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,35
+2022-01-07,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2022-09-07,Celular,3312,Rene Quinteros Zamora,Portatil,Santa Ana,390
+2023-11-08,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Cojutepeque,35
+2023-08-27,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,100
+2023-09-08,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,950
+2023-03-27,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,35
+2023-08-25,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2022-04-05,Computadora,2422,Rosa Maria Guevara Elias,Portatil,La Paz,1150
+2023-04-15,Cafetera,4976,Yazmin Veronica Ramirez,Otros,La Paz,85
+2022-04-07,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,San Miguel,159
+2024-01-09,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,150
+2022-08-06,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,159
+2022-11-16,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,159
+2023-02-11,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Libertad,75
+2022-05-01,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,85
+2022-08-26,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,500
+2023-05-15,Cocina,3312,Rene Quinteros Zamora,Otros,Cojutepeque,400
+2023-02-15,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,159
+2023-08-09,DVD,3312,Rene Quinteros Zamora,Entretenimiento,Cojutepeque,150
+2023-10-19,Cafetera,2422,Rosa Maria Guevara Elias,Otros,Chalatenango,85
+2022-03-06,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,159
+2022-02-03,Bocina,5662,Ulises del Dios Henriquez,Entretenimiento,Santa Ana,159
+2022-05-18,Cocina,4976,Yazmin Veronica Ramirez,Otros,San Miguel,400
+2023-10-11,Plancha,2422,Rosa Maria Guevara Elias,Otros,La Paz,35
+2022-08-16,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,1150
+2023-08-15,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,1150
+2022-03-21,Radio,5662,Ulises del Dios Henriquez,Portatil,La Libertad,150
+2023-08-24,Bocina,3312,Rene Quinteros Zamora,Entretenimiento,Usulutan,159
+2023-03-23,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,950
+2022-12-22,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,85
+2022-06-10,Celular,4976,Yazmin Veronica Ramirez,Portatil,San Salvador,390
+2023-05-27,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2024-03-09,Asistente inteligente,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,100
+2022-07-31,Cafetera,3312,Rene Quinteros Zamora,Otros,La Paz,85
+2023-06-21,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,85
+2023-10-07,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,35
+2023-09-05,Radio,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,150
+2022-12-07,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2023-05-10,Plancha,4976,Yazmin Veronica Ramirez,Otros,San Miguel,35
+2022-11-15,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,150
+2023-03-26,Celular,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,390
+2023-09-02,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Miguel,85
+2022-07-20,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,La Libertad,500
+2023-08-11,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,150
+2023-07-22,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2022-06-06,Ventilador,5662,Ulises del Dios Henriquez,Otros,Santa Ana,75
+2022-06-27,Radio,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,150
+2023-12-03,Computadora,4976,Yazmin Veronica Ramirez,Portatil,La Paz,1150
+2022-08-24,Televisor,5662,Ulises del Dios Henriquez,Entretenimiento,Cojutepeque,500
+2023-06-27,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,950
+2022-12-24,Celular,3312,Rene Quinteros Zamora,Portatil,La Libertad,390
+2023-12-22,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,35
+2022-12-16,Plancha,2422,Rosa Maria Guevara Elias,Otros,San Miguel,35
+2022-04-27,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,150
+2022-11-02,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,La Libertad,390
+2024-04-10,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Cojutepeque,950
+2024-01-22,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,85
+2024-02-12,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Santa Ana,75
+2022-03-05,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,85
+2023-02-13,Cocina,2422,Rosa Maria Guevara Elias,Otros,La Libertad,400
+2023-03-31,Celular,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,390
+2022-01-07,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,400
+2023-05-18,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,La Libertad,75
+2023-03-10,Bocina,4976,Yazmin Veronica Ramirez,Entretenimiento,La Paz,159
+2022-07-19,Celular,4976,Yazmin Veronica Ramirez,Portatil,Cojutepeque,390
+2023-04-16,Plancha,3312,Rene Quinteros Zamora,Otros,San Salvador,35
+2023-08-26,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,La Paz,85
+2023-02-03,DVD,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,150
+2022-04-03,Celular,5662,Ulises del Dios Henriquez,Portatil,San Miguel,390
+2022-05-11,Celular,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,390
+2024-01-31,Celular,4976,Yazmin Veronica Ramirez,Portatil,Chalatenango,390
+2023-07-25,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2023-09-03,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Usulutan,500
+2022-07-21,Radio,3312,Rene Quinteros Zamora,Portatil,Usulutan,150
+2023-10-09,Televisor,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Paz,500
+2024-02-08,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,150
+2023-10-28,Plancha,3312,Rene Quinteros Zamora,Otros,Cojutepeque,35
+2022-08-17,Cocina,5662,Ulises del Dios Henriquez,Otros,San Miguel,400
+2023-12-19,Radio,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,150
+2022-11-09,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Miguel,85
+2023-09-22,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Usulutan,1150
+2023-08-26,Celular,3312,Rene Quinteros Zamora,Portatil,Chalatenango,390
+2023-06-15,Televisor,4976,Yazmin Veronica Ramirez,Entretenimiento,Santa Ana,500
+2024-04-06,Cocina,5662,Ulises del Dios Henriquez,Otros,Cojutepeque,400
+2023-07-11,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2024-04-03,Asistente inteligente,3312,Rene Quinteros Zamora,Entretenimiento,San Salvador,100
+2023-11-06,Celular,2422,Rosa Maria Guevara Elias,Portatil,Santa Ana,390
+2022-12-19,Cocina,2422,Rosa Maria Guevara Elias,Otros,Cojutepeque,400
+2022-01-01,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,150
+2022-08-17,Cocina,5662,Ulises del Dios Henriquez,Otros,San Miguel,400
+2023-01-15,Cafetera,4976,Yazmin Veronica Ramirez,Otros,San Salvador,85
+2024-03-11,Cafetera,5662,Ulises del Dios Henriquez,Otros,Usulutan,85
+2023-11-13,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,Santa Ana,390
+2023-06-15,Consola,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Santa Ana,950
+2023-06-28,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,San Miguel,159
+2024-02-24,Ventilador,2422,Rosa Maria Guevara Elias,Otros,La Libertad,75
+2023-12-29,DVD,2422,Rosa Maria Guevara Elias,Entretenimiento,Chalatenango,150
+2022-02-16,Plancha,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,35
+2023-05-29,Computadora,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,1150
+2024-03-03,Radio,1804,Carlos Antonio Gomez Chavarria,Portatil,Chalatenango,150
+2024-01-07,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,35
+2023-09-24,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,950
+2023-05-13,Computadora,5662,Ulises del Dios Henriquez,Portatil,Cojutepeque,1150
+2024-02-17,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,159
+2023-09-02,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,150
+2024-02-18,DVD,4976,Yazmin Veronica Ramirez,Entretenimiento,Chalatenango,150
+2022-06-24,Ventilador,1804,Carlos Antonio Gomez Chavarria,Otros,Usulutan,75
+2022-12-28,Celular,2422,Rosa Maria Guevara Elias,Portatil,Chalatenango,390
+2022-12-14,Celular,1804,Carlos Antonio Gomez Chavarria,Portatil,San Miguel,390
+2023-12-14,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,La Libertad,950
+2022-04-30,Cafetera,5662,Ulises del Dios Henriquez,Otros,San Miguel,85
+2022-12-25,Bocina,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,159
+2022-09-18,Radio,5662,Ulises del Dios Henriquez,Portatil,La Libertad,150
+2023-03-17,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,San Miguel,950
+2022-01-17,Asistente inteligente,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,Usulutan,100
+2023-05-31,Plancha,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,35
+2023-07-12,Celular,2422,Rosa Maria Guevara Elias,Portatil,Cojutepeque,390
+2023-10-28,Computadora,1804,Carlos Antonio Gomez Chavarria,Portatil,Usulutan,1150
+2024-01-31,DVD,1804,Carlos Antonio Gomez Chavarria,Entretenimiento,La Libertad,150
+2022-01-14,Cocina,1804,Carlos Antonio Gomez Chavarria,Otros,San Salvador,400
+2022-05-18,Cocina,4976,Yazmin Veronica Ramirez,Otros,Cojutepeque,400
+2022-06-25,Asistente inteligente,4976,Yazmin Veronica Ramirez,Entretenimiento,San Salvador,100
+2023-05-09,Cafetera,5662,Ulises del Dios Henriquez,Otros,La Paz,85
+2024-03-23,Consola,4976,Yazmin Veronica Ramirez,Entretenimiento,San Miguel,950
+2022-04-09,Cafetera,1804,Carlos Antonio Gomez Chavarria,Otros,San Miguel,85
+2022-06-25,Celular,4976,Yazmin Veronica Ramirez,Portatil,Santa Ana,390
+2023-03-27,Plancha,4976,Yazmin Veronica Ramirez,Otros,Santa Ana,35
+2022-09-04,Celular,4976,Yazmin Veronica Ramirez,Portatil,La Libertad,390
+2023-10-17,Televisor,3312,Rene Quinteros Zamora,Entretenimiento,Chalatenango,500
+2024-01-21,Plancha,1804,Carlos Antonio Gomez Chavarria,Otros,Chalatenango,35
+2024-04-01,Consola,2422,Rosa Maria Guevara Elias,Entretenimiento,La Libertad,950
